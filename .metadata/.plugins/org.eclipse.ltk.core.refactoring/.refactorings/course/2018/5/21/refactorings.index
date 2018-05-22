@@ -1,0 +1,6 @@
+1526890024656	Delete element
+1526890029079	Delete element
+1526891551745	Move 'home.jsp' to 'webapp'
+1526951263099	Move 'addstudent.jsp' to 'webapp'
+1526953853775	Move 'detail.jsp' to 'webapp'
+1526959200954	Encapsulate field 'courses'

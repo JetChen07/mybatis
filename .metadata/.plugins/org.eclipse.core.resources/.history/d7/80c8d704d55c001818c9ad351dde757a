@@ -1,0 +1,24 @@
+package com.jack.dao;
+
+import java.util.List;
+
+import org.apache.ibatis.session.SqlSession;
+
+
+import com.jack.utils.SqlSessionFactoryUtils;
+import com.jack.entity.Student;
+
+public class StudentDAO {
+	private SqlSession sqlSession;
+	private SqlSession getSession() {
+		sqlSession = SqlSessionFactoryUtils.getSqlSessionFactory().openSession();
+		return sqlSession;
+	}
+	public List<Student> findAll() {
+		// TODO Auto-generated method stub
+		List<Student> studentList;
+		studentList = getSession().selectList(arg0)
+		return studentList;
+	}
+
+}

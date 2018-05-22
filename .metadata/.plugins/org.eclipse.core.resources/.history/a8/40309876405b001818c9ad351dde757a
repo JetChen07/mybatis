@@ -1,0 +1,7 @@
+package com.damu.dao;
+
+import com.damu.utils.SqlSessionFactoryUtils;
+
+public class UserDAO {
+	private SqlSession sqlSession = SqlSessionFactoryUtils.getSqlSessionFactory();
+}

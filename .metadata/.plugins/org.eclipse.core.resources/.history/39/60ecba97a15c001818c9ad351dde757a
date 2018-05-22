@@ -1,0 +1,12 @@
+package com.jack.entity;
+
+public class Course {
+/**
+ * id INT UNSIGNED NOT NULL AUTO_INCREMENT KEY,
+courseid varchar(20) NOT NULL,
+major_name varchar(20) NOT NULL,
+courname varchar(20) NOT NULL,
+courtime INT NOT NULL DEFAULT 45,
+courteacher varchar(20) NOT NULL
+ */
+}

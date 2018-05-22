@@ -1,0 +1,8 @@
+package com.jack.utils;
+
+import org.apache.ibatis.session.SqlSessionFactory;
+
+public class SqlSessionFactoryUtils {
+	private SqlSessionFactory sqlSessionFactory;
+	
+}

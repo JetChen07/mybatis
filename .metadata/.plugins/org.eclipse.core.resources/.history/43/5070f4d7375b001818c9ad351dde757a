@@ -1,0 +1,5 @@
+package com.damu.utils;
+
+public class SqlSessionFactoryUtils {
+
+}

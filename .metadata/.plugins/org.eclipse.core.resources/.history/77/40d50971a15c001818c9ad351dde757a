@@ -1,0 +1,13 @@
+package com.jack.entity;
+
+public class Student {
+	
+	
+/*	id INT UNSIGNED AUTO_INCREMENT KEY,
+	reg_no INT NOT NULL,
+	name varchar(20) NOT NULL,
+	sex varchar(20) NOT NULL,
+	age INT NOT NULL,
+	grade varchar(20) NOT NULL,
+	major varchar(50) NOT NULL*/
+}

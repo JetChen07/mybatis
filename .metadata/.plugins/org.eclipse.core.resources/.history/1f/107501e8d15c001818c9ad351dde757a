@@ -1,0 +1,10 @@
+package com.jack.utils;
+
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+
+public class SqlSessionFactoryUtils {
+	private SqlSessionFactory sqlSessionFactory;
+	private static final String RESOURCE = "mybatis-config.xml";
+	private static ThreadLocal<SqlSession> threadLocal = new ThreadLocal<SqlSession>();
+}

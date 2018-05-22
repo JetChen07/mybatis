@@ -1,0 +1,39 @@
+
+5月 19, 2018 16:37:55.92 NEW SESSION
+5月 19, 2018 16:37:55.92 [35568:35820:0519/163755.922:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5月 19, 2018 17:23:29.77 [36904:31608:0519/172329.773:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5月 19, 2018 17:23:30.50 [36904:32300:0519/172330.501:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+5月 19, 2018 17:23:30.50 [36904:32300:0519/172330.501:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+5月 19, 2018 17:23:30.50 [36904:32300:0519/172330.502:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+5月 19, 2018 17:23:30.50 [36904:32300:0519/172330.502:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+5月 20, 2018 17:23:16.86 [36972:40892:0520/172316.793:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5月 20, 2018 17:23:17.58 [36972:7340:0520/172317.588:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+5月 20, 2018 17:23:17.59 [36972:7340:0520/172317.588:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+5月 20, 2018 17:23:17.59 [36972:7340:0520/172317.588:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+5月 20, 2018 17:23:17.59 [36972:7340:0520/172317.588:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+5月 20, 2018 17:23:17.79 [36972:21336:0520/172317.796:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmb', domain='.bbs.fobshanghai.com', path='/'}
+5月 20, 2018 17:23:17.80 [36972:21336:0520/172317.797:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_trs_ua_s_1', domain='www.kq.gov.cn', path='/'}
+5月 20, 2018 17:30:40.35 Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+5月 20, 2018 17:30:40.36 [36972:7340:0520/173040.358:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.256 s for parse_start 1.253 s
+5月 20, 2018 17:30:40.36 [36972:7340:0520/173040.358:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.256 s for parse_start 1.253 s
+5月 20, 2018 17:30:41.39 [36972:7340:0520/173041.391:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.256 s for parse_start 1.253 s
+5月 20, 2018 17:30:42.39 [36972:7340:0520/173042.391:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.256 s for parse_start 1.253 s
+5月 20, 2018 17:30:43.23 [36972:7340:0520/173043.238:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.256 s for parse_start 1.253 s
+5月 21, 2018 10:26:56.41 [36972:7340:0521/102656.416:ERROR:CONSOLE(143)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://baidu.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (143)
+5月 21, 2018 10:27:16.18 [36972:7340:0521/102716.187:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.109 s for parse_start 0.108 s
+5月 21, 2018 10:27:16.19 [36972:7340:0521/102716.187:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.109 s for parse_start 0.108 s
+5月 21, 2018 17:19:20.46 [36972:21336:0521/171920.446:ERROR:ssl_client_socket_impl.cc(1098)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 21, 2018 17:19:20.69 [36972:21336:0521/171920.698:ERROR:ssl_client_socket_impl.cc(1098)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 21, 2018 17:26:34.99 [36972:21336:0521/172634.998:ERROR:ssl_client_socket_impl.cc(1098)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 21, 2018 17:26:35.01 [36972:21336:0521/172635.018:ERROR:ssl_client_socket_impl.cc(1098)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 21, 2018 17:30:03.41 [36972:7340:0521/173003.409:ERROR:CONSOLE(143)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://baidu.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (143)
+5月 21, 2018 17:36:40.80 [47440:43036:0521/173640.806:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5月 21, 2018 17:36:41.52 [47440:36668:0521/173641.523:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ISUS', domain='pos.baidu.com', path='/'}
+5月 21, 2018 17:36:41.64 [47440:36668:0521/173641.642:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmb', domain='.bbs.fobshanghai.com', path='/'}
+5月 21, 2018 17:36:41.64 [47440:36668:0521/173641.643:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_trs_ua_s_1', domain='www.kq.gov.cn', path='/'}
+
+5月 21, 2018 18:04:57.42 NEW SESSION
+5月 21, 2018 18:04:57.42 [48900:47684:0521/180457.418:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5月 21, 2018 18:04:58.49 [48900:48204:0521/180458.490:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ISUS', domain='pos.baidu.com', path='/'}
+5月 21, 2018 18:04:58.49 [48900:48204:0521/180458.490:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmb', domain='.bbs.fobshanghai.com', path='/'}
+5月 21, 2018 18:04:58.49 [48900:48204:0521/180458.490:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_trs_ua_s_1', domain='www.kq.gov.cn', path='/'}

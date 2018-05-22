@@ -1,0 +1,6 @@
+package com.jack.utils;
+
+public class SqlSessionFactoryUtils {
+	private SqlSessionFactory sqlSessionFactory;
+	
+}

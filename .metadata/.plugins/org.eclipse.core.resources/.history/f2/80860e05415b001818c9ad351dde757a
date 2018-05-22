@@ -1,0 +1,19 @@
+package com.damu.dao;
+
+import java.util.List;
+
+import org.apache.ibatis.session.SqlSession;
+
+import com.damu.entity.Users;
+import com.damu.utils.SqlSessionFactoryUtils;
+
+public class UserDAO {
+	private SqlSession sqlSession = SqlSessionFactoryUtils.getSqlSessionFactory().openSession();
+	private List<Users> list;
+	
+	public List<Users> findAll(){
+		list = sqlSession.selectList("findUsers");
+		return list;
+	}
+	
+}

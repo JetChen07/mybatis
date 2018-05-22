@@ -1,0 +1,6 @@
+package com.damu.utils;
+
+public class SqlSessionFactoryUtils {
+	private static String RESOURCE = "mybatis-config.xml";
+	private static SqlSessionFactory sqlSessionFactory;
+}

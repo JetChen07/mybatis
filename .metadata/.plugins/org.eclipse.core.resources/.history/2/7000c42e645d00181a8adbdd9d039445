@@ -1,0 +1,34 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>course</display-name>
+  <listener>
+  	<listener-class>com.jack.listener.InitSqlSessionListener</listener-class>
+  </listener>
+  <servlet>
+  	<servlet-name>StudentFindServlet</servlet-name>
+  	<display-name>StudentFindServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.jack.servlet.StudentFindServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>AddStudentServlet</servlet-name>
+  	<display-name>AddStudentServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.jack.servlet.AddStudentServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>StudentFindServlet</servlet-name>
+  	<url-pattern>/index</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>AddStudentServlet</servlet-name>
+  	<url-pattern>/addstudent</url-pattern>
+  </servlet-mapping>
+  
+   <welcome-file-list>
+        <welcome-file>home.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>

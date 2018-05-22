@@ -1,0 +1,24 @@
+package com.damu.listener;
+
+import javax.servlet.ServletContextEvent;
+import javax.servlet.ServletContextListener;
+
+/**
+ * Application Lifecycle Listener implementation class InitSqlSessionListener
+ *
+ */
+public class InitSqlSessionListener implements ServletContextListener {
+
+
+
+	public void contextDestroyed(ServletContextEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void contextInitialized(ServletContextEvent arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
